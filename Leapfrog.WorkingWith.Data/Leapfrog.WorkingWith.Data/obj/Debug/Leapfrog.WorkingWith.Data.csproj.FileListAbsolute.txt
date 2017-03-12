@@ -1,0 +1,6 @@
+c:\users\apuss\documents\visual studio 2013\Projects\Leapfrog.WorkingWith.Data\Leapfrog.WorkingWith.Data\bin\Debug\Leapfrog.WorkingWith.Data.exe.config
+c:\users\apuss\documents\visual studio 2013\Projects\Leapfrog.WorkingWith.Data\Leapfrog.WorkingWith.Data\obj\Debug\Leapfrog.WorkingWith.Data.csprojResolveAssemblyReference.cache
+c:\users\apuss\documents\visual studio 2013\Projects\Leapfrog.WorkingWith.Data\Leapfrog.WorkingWith.Data\bin\Debug\Leapfrog.WorkingWith.Data.exe
+c:\users\apuss\documents\visual studio 2013\Projects\Leapfrog.WorkingWith.Data\Leapfrog.WorkingWith.Data\bin\Debug\Leapfrog.WorkingWith.Data.pdb
+c:\users\apuss\documents\visual studio 2013\Projects\Leapfrog.WorkingWith.Data\Leapfrog.WorkingWith.Data\obj\Debug\Leapfrog.WorkingWith.Data.exe
+c:\users\apuss\documents\visual studio 2013\Projects\Leapfrog.WorkingWith.Data\Leapfrog.WorkingWith.Data\obj\Debug\Leapfrog.WorkingWith.Data.pdb
